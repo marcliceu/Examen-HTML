@@ -37,7 +37,7 @@ font-family: 'Raleway';
 width: 57px;
 height: 23px;
 font-style: normal;
-font-size: 20px;
+font-size: 25px;
 
 
 }
@@ -51,14 +51,14 @@ font-size: 20px;
     width: 57px;
     height: 23px;
     font-style: normal;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .logo-text {
     text-decoration: none;
     width: 171px;
     height: 34px;
-    font-size: 28px;
+    font-size: 29px;
     letter-spacing: 1.305em;
     font-size: 28px;
     font-family: 'Raleway';
@@ -87,7 +87,7 @@ font-size: 20px;
 .parrafo1 {
 
     width: 30%;
-    margin-left: 38%;
+    margin-left: 36%;
     font-weight: 400;
     font-size: 20px;
     line-height: 23px;
@@ -97,7 +97,7 @@ font-size: 20px;
 
 
 .button {
-    margin-left: 40%;
+    margin-left: 37%;
     margin-top: 5%;
     font-family: 'Raleway';
     text-decoration: none;
